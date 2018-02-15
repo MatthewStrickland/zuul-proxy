@@ -1,0 +1,10 @@
+.gradle
+classes/
+
+# Build directories
+build/
+
+# IntelliJ
+.idea/
+*.iml
+*/out/
